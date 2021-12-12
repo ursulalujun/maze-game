@@ -1,0 +1,6 @@
+﻿  ACO.cpp
+D:\Documents\算法\算法课\综合1-maze\maze.h(15,1): warning C4005: “IN”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(79): message : 参见“IN”的前一个定义
+D:\Documents\算法\算法课\综合1-maze\maze.h(16,1): warning C4005: “OUT”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(83): message : 参见“OUT”的前一个定义
+  综合1-maze.vcxproj -> D:\Documents\算法\算法课\综合1-maze\Debug\综合1-maze.exe
